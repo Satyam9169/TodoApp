@@ -1,10 +1,17 @@
 ##Created a todo app
 
-#using react, redux, HTML, CSS and bootstrap
+##using react, redux, HTML, CSS and bootstrap
 
-#for run the project
-#1) download the project
-#2) extract from zip file
-#4) go to that file
-#5) to run the project use command :  npm start
-#6) in seprate terminal for run server: npm run server
+##for run the project
+
+
+## download the project
+
+## extract from zip file
+
+## go to that file
+
+## to run the project use command :  npm start
+
+
+## in seprate terminal for run server: npm run server
